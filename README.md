@@ -18,13 +18,13 @@
 • **Utilitários**: Calculadora, Compactador
 • **Outros** (views, repositórios, gerenciadores, etc.)
 
-![Untitled](Classes,%20metodos%20,%20func%CC%A7o%CC%83es%20e%20enum%20ee8cbcbcb1d34c2a8f8c4a7da1d054fa/Untitled.png)
+![Untitled](Classes%2C%20metodos%20%2C%20funções%20e%20enum%20ee8cbcbcb1d34c2a8f8c4a7da1d054fa/Untitled.png)
 
-![Untitled](Classes,%20metodos%20,%20func%CC%A7o%CC%83es%20e%20enum%20ee8cbcbcb1d34c2a8f8c4a7da1d054fa/Untitled%201.png)
+![Untitled](Classes%2C%20metodos%20%2C%20funções%20e%20enum%20ee8cbcbcb1d34c2a8f8c4a7da1d054fa/Untitled%201.png)
 
 # Object
 
-![Untitled](Classes,%20metodos%20,%20func%CC%A7o%CC%83es%20e%20enum%20ee8cbcbcb1d34c2a8f8c4a7da1d054fa/Untitled%202.png)
+![Untitled](Classes%2C%20metodos%20%2C%20funções%20e%20enum%20ee8cbcbcb1d34c2a8f8c4a7da1d054fa/Untitled%202.png)
 
 # Métodos e funções C#
 
